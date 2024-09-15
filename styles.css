@@ -236,3 +236,19 @@ nav .fa-bars {
   font-size: 12px;
   text-align: left;
 }
+
+#footer .city {
+  margin-left: 37px;
+}
+#footer .fa {
+  padding-right: 20px;
+  font-size: 15px;
+}
+#footer hr {
+  margin-top: 10px;
+}
+#footer .copyright {
+  margin-bottom: -80px;
+  text-align: center;
+  font-size: 15px;
+}
