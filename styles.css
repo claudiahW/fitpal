@@ -185,3 +185,10 @@ nav .fa-bars {
 .subscribe p {
   color: #fff;
 }
+.subscribe .input-group {
+  border-radius: 30px;
+  background: #fff;
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 5px;
+}
