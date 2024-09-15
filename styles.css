@@ -172,3 +172,16 @@ nav .fa-bars {
   margin-bottom: -30px;
   margin-top: -30px;
 }
+
+/* Subscribe Section */
+
+.subscribe {
+  padding: 50px 20px;
+  background-color: #013f7e;
+  position: relative;
+  box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.2);
+}
+.subscribe h3,
+.subscribe p {
+  color: #fff;
+}
