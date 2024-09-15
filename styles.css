@@ -7,4 +7,9 @@
   background-image: url(assets/banner.jpg);
   height: 80vh;
   background-size: cover;
+  background-position: center;
+}
+.navbar-nav li a {
+  float: right;
+  color: #fff !important;
 }
