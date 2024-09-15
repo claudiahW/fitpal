@@ -192,3 +192,23 @@ nav .fa-bars {
   margin: 10px auto;
   padding: 5px;
 }
+.subscribe .form-control {
+  border: none;
+  background: transparent;
+}
+
+.subscribe .form-control:focus {
+  box-shadow: none;
+}
+.subscribe .input-group-append {
+  background-image: linear-gradient(to right, #1c03b5, #5c8bef);
+  border-radius: 30px;
+}
+.subscribe .input-group-text {
+  background: transparent;
+  border: none;
+  color: #fff;
+}
+.subscribe .btn:focus {
+  box-shadow: none;
+}
